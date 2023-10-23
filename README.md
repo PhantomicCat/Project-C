@@ -15,5 +15,9 @@ After selecting a file that is suitable for distortion, numbers from 1 to 555555
 Stage 3 - Writing the generated values to a file.
 When the values are generated, these numbers are written to a file.
 
+# Unsupported file extensions
+
+Every text files. 
+
 # Used Materials
 This program uses the Montserrat fonts.
